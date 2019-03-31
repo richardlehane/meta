@@ -23,7 +23,7 @@ import (
 	"os"
 	"strings"
 
-	"bitbucket.org/srnsw/meta"
+	"github.com/richardlehane/meta"
 )
 
 var (
