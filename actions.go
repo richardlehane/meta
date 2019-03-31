@@ -27,7 +27,7 @@ import (
 	"github.com/richardlehane/siegfried/pkg/config"
 	"github.com/richardlehane/siegfried/pkg/decompress"
 	"github.com/richardlehane/siegfried/pkg/pronom"
-	"github.com/srnsw/wincommands"
+	"github.com/richardlehane/wincommands"
 )
 
 // ManifestCopy copies files and versions as listed in the manifest
